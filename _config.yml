@@ -33,7 +33,7 @@ social:
     desc: Segueix-nos al Twitter
     share_url: http://twitter.com/share
     share_title: "?text="
-    share_link: "&amp;url="
+    share_link: "&url="
 
   - icon: github
     url: https://github.com/esceptic
